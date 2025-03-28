@@ -97,7 +97,7 @@ npm start
 
 
 ## 👥 Contributors
-- [Priyanshu Raj]
+- Priyanshu Raj
 
 ## 🙌 How to Contribute
 1. Fork the repository
@@ -107,4 +107,4 @@ npm start
 5. Open a Pull Request
 
 ## 💡 Support
-For support, please open an issue in the GitHub repository or contact [rajp58425@gmail.com].
+For support, please open an issue in the GitHub repository or contact email: rajp58425@gmail.com.
