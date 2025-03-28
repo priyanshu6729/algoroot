@@ -89,20 +89,12 @@ npm start
 - Touch-friendly interfaces
 - Breakpoints at 768px and 480px
 
-## 🔍 Known Limitations
-- Uses local storage (not suitable for production)
-- Basic password hashing (requires more robust solution)
-- Client-side only authentication
+## Screenshots (Project Preview)
+  <img width="495" alt="Screenshot 2025-03-28 at 13 42 31" src="https://github.com/user-attachments/assets/14348530-78f1-4468-af3c-9c4457150dc9" />
+  <img width="1440" alt="Screenshot 2025-03-28 at 13 42 20" src="https://github.com/user-attachments/assets/7a63bebc-1312-4a81-8319-777129de2473" />
+  <img width="463" alt="Screenshot 2025-03-28 at 13 42 40" src="https://github.com/user-attachments/assets/22d4d30d-2017-4122-acf9-f6053cef28ba" />
 
-## 🚧 Potential Improvements
-- Implement backend authentication
-- Add more robust password hashing
-- Create admin management features
-- Integrate with database
-- Add more comprehensive form validation
 
-## 📄 License
-MIT License
 
 ## 👥 Contributors
 - [Priyanshu Raj]
