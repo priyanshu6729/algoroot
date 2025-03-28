@@ -115,4 +115,4 @@ MIT License
 5. Open a Pull Request
 
 ## 💡 Support
-For support, please open an issue in the GitHub repository or contact [your email].
+For support, please open an issue in the GitHub repository or contact [rajp58425@gmail.com].
